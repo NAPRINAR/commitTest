@@ -2,6 +2,13 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+## [1.5.0](https://github.com/NAPRINAR/commitTest/compare/v1.4.7...v1.5.0) (2022-01-28)
+
+
+### Features
+
+* feat:  the type feat introduces a new feature to the codebase ([0b9a794](https://github.com/NAPRINAR/commitTest/commit/0b9a79462b4e0584cbfe1d290aee4feeef4c93c0))
+
 ### [1.4.7](https://github.com/NAPRINAR/commitTest/compare/v1.4.6...v1.4.7) (2022-01-28)
 
 

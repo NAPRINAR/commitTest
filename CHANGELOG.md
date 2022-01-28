@@ -2,6 +2,13 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+## [1.6.0](https://github.com/NAPRINAR/commitTest/compare/v1.5.0...v1.6.0) (2022-01-28)
+
+
+### Features
+
+* **api:** ssssss ([18b221f](https://github.com/NAPRINAR/commitTest/commit/18b221f9345ec74291bff450785993b23e9ad461))
+
 ## [1.5.0](https://github.com/NAPRINAR/commitTest/compare/v1.4.7...v1.5.0) (2022-01-28)
 
 

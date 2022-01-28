@@ -2,6 +2,21 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+## [3.0.0](https://github.com/NAPRINAR/commitTest/compare/v2.0.0...v3.0.0) (2022-01-28)
+
+
+### ⚠ BREAKING CHANGES
+
+* feat!:feat with BREAKING CHANGE
+* feat!:feat with BREAKING CHANGE
+* feat!: feat with BREAKING CHANGE
+
+### Features
+
+* feat!: feat with BREAKING CHANGE ([88751f3](https://github.com/NAPRINAR/commitTest/commit/88751f3fbd56f948e32aca99ca971d7f9498b229))
+* feat!:feat with BREAKING CHANGE ([0fa8079](https://github.com/NAPRINAR/commitTest/commit/0fa8079cf293cb76588e4f42d6522f8321cb2cad))
+* feat!:feat with BREAKING CHANGE ([1e2610c](https://github.com/NAPRINAR/commitTest/commit/1e2610c8ecdb3211c7f5e134b1638af15046a89b))
+
 ## [2.0.0](https://github.com/NAPRINAR/commitTest/compare/v1.6.0...v2.0.0) (2022-01-28)
 
 

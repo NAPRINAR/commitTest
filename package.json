@@ -4,7 +4,8 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "test": "node index.js"
+    "test": "node index.js",
+    "release": "standard-version"
   },
   "repository": {
     "type": "git",
@@ -16,5 +17,8 @@
   "bugs": {
     "url": "https://github.com/NAPRINAR/commitTest/issues"
   },
-  "homepage": "https://github.com/NAPRINAR/commitTest#readme"
+  "homepage": "https://github.com/NAPRINAR/commitTest#readme",
+  "dependencies": {
+    "standard-version": "^9.3.2"
+  }
 }

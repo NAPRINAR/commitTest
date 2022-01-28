@@ -2,6 +2,13 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+### [1.4.7](https://github.com/NAPRINAR/commitTest/compare/v1.4.6...v1.4.7) (2022-01-28)
+
+
+### Bug Fixes
+
+* fix: fixing bugs ([881789c](https://github.com/NAPRINAR/commitTest/commit/881789c856e02197e6739ca23a34c616d1b5c43e))
+
 ### [1.4.6](https://github.com/NAPRINAR/commitTest/compare/v1.4.5...v1.4.6) (2022-01-28)
 
 
